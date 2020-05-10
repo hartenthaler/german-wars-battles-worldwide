@@ -42,7 +42,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     
     public const CUSTOM_WEBSITE = 'https://github.com/hartenthaler/german-wars-and-battles-worldwide/';
     
-    public const CUSTOM_VERSION = '2.0.3.1';
+    public const CUSTOM_VERSION = '2.0.3.2';
 
     public const CUSTOM_LAST = 'https://github.com/hartenthaler/german-wars-and-battles-worldwide/blob/master/latest-version.txt';
 
