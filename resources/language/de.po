@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: webtrees Bundeskanzler\n"
+"Project-Id-Version: webtrees Wars and Battles Worldwide\n"
 "POT-Creation-Date: 2020-05-04 23:48+0200\n"
-"PO-Revision-Date: 2020-05-06 17:06+0200\n"
+"PO-Revision-Date: 2021-02-20 23:23+0100\n"
 "Last-Translator: \n"
 "Language-Team: hermann@hartenthaler.de\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-Basepath: ../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: module.php\n"
@@ -17,3 +17,83 @@ msgstr ""
 #: module.php:89
 msgid "Historical facts (in German) - Wars and Battles Worldwide (since 900)"
 msgstr "Historische Fakten (in Deutsch) - Kriege und Schlachten (weltweit, seit 900)"
+
+#: module.php:189
+msgid "revolt"
+msgstr "Aufstand"
+
+#: module.php:190
+msgid "siege"
+msgstr "Belagerung"
+
+#: module.php:191
+msgid "blockade"
+msgstr "Blockade"
+
+#: module.php:192
+msgid "civil war"
+msgstr "Bürgerkrieg"
+
+#: module.php:193
+msgid "conquest"
+msgstr "Eroberung"
+
+#: module.php:194
+msgid "feud"
+msgstr "Fehde"
+
+#: module.php:195
+msgid "campaign"
+msgstr "Feldzug"
+
+#: module.php:196
+msgid "combat"
+msgstr "Gefecht"
+
+#: module.php:197
+msgid "invasion"
+msgstr "Invasion"
+
+#: module.php:198
+msgid "struggle"
+msgstr "Kampf"
+
+#: module.php:199
+msgid "conflict"
+msgstr "Konflikt"
+
+#: module.php:200
+msgid "crusade"
+msgstr "Kreuzzug"
+
+#: module.php:201
+msgid "war"
+msgstr "Krieg"
+
+#: module.php:202
+msgid "massacre"
+msgstr "Massaker"
+
+#: module.php:203
+msgid "offensive"
+msgstr "Offensive"
+
+#: module.php:204
+msgid "revolution"
+msgstr "Revolution"
+
+#: module.php:205
+msgid "battle"
+msgstr "Schlacht"
+
+#: module.php:206
+msgid "naval battle"
+msgstr "Seeschlacht"
+
+#: module.php:207
+msgid "operation"
+msgstr "Unternehmen"
+
+#: module.php:209
+msgid "or"
+msgstr "auch"
