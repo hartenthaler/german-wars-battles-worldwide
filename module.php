@@ -42,9 +42,9 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     
     public const CUSTOM_WEBSITE = 'https://github.com/hartenthaler/german-wars-battles-worldwide/';
     
-    public const CUSTOM_VERSION = '2.0.11.0';
+    public const CUSTOM_VERSION = '2.0.11.2';
 
-    public const CUSTOM_LAST = 'https://github.com/hartenthaler/german-wars-battles-worldwide/blob/master/latest-version.txt';
+    public const CUSTOM_LAST = 'https://github.com/hartenthaler/german-wars-battles-worldwide/raw/master/latest-version.txt';
 
     /**
      * Constructor.  The constructor is called on *all* modules, even ones that are disabled.
