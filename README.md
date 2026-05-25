@@ -1,3 +1,9 @@
+# Deprecated
+
+This repository is superseded by [hh-historic-events](https://github.com/hartenthaler/hh-historic-events). Please use the new combined module for future development, issues, and releases.
+
+---
+
 ﻿# webtrees module german-wars-battles-worldwide
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
